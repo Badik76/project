@@ -2,16 +2,25 @@ Présentation à la SCP -> Encyclopédie/parchemin
 Encyclopédie sur notre univers
 Deviendras une branche de notre site web
 
-Page d'acceuil:
+Page d'acceuil: (A)
 Livre fermé avec un titre en mode "encyclopédie" ou alors porte avec "Archive"
-Page principale:
+Page principale: (P)
 map au milieu, menu déroulant à droite qui affiche des pins sur la map en fonction du thème choisis.
-Page de lecture:
+Page de lecture: (L)
 Commune en fonction du thème. pour renforcer l'immersion dans l'histoire.
 (Annotation sous forme de post it)
+Page About: (Ab)
+Disponible de partout sur le site en cliquant sur un logo
+Page mention légales: (Ml)
+Parchemins avec les mentions légales, rien de palpitant
 
+Pour revenir sur la page d'avant, logo significatif (pas forcément la croix, genre le logo de la carte)
 
-
+               Ab
+              /   \
+A --> P <-> L
+              \   /
+               Ml
 
 Version mobile:
 Détection à l'entrée site.
